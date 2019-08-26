@@ -58,3 +58,6 @@ Objetivo: Apresentar o funcionamento e os tipos de janelas no Netbeans
     
 - Utilize o protótipo a seguir como referência <br />
 ![Intro Caixas de Dialogo](prototipos/aula2_CaixasDialogoPrototipo.png)
+
+### Desafio
+Imprima no console (com System.out.println) os dados que o usuário enviou (exemplos: OK ou Cancelar, KM ou Jardas, o nome que ele digitou)
